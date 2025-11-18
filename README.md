@@ -182,6 +182,5 @@ This interpretability layer would make the model more practical for business app
 ## Acknowledgments
 
 - Base model: [PhoBERT](https://github.com/VinAIResearch/PhoBERT) by VinAI Research
-- Training framework: HuggingFace Transformers
 
 *Made with love by [@djmeow0407](https://github.com/djmeow0407)*  
