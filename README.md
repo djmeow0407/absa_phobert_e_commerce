@@ -2,7 +2,11 @@
 
 ## Model Description
 
-This model is a fine-tuned version of [vinai/phobert-base](https://huggingface.co/vinai/phobert-base) for multi-aspect sentiment analysis on Vietnamese product reviews. It can simultaneously predict sentiment across 8 different aspects from a single review text.
+This model is a fine-tuned version of [vinai/phobert-base](https://huggingface.co/vinai/phobert-base) for multi-aspect sentiment analysis on Vietnamese product reviews.
+
+It can simultaneously predict sentiment across 8 different aspects from a single review text.
+
+This model is used as the AI serving component for [E-Metric Hub](https://github.com/Ngnquoc1/E-Metric-Hub). The current version is intended for research/demo purposes and is not yet fully production-ready.
 
 **Developed by:** [@djmeow0407](https://github.com/djmeow0407)  
 **Model type:** Multi-label Text Classification  
